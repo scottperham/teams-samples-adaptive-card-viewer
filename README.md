@@ -1,1 +1,1 @@
-# teams-samples-tenant-sso
+# teams-samples-adaptive-card-viewer
